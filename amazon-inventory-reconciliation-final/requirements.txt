@@ -1,0 +1,12 @@
+# Colab already ships torch/torchvision/numpy/pandas/scikit-learn/matplotlib/pillow - only these are extra:
+torch>=2.3
+torchvision>=0.18
+numpy
+pandas
+scikit-learn
+scikit-image
+matplotlib
+pillow
+requests
+tqdm
+gradio          # live demo UI
